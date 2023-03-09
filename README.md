@@ -21,17 +21,17 @@ DB_DATABASE=db_quizz_app
 
 b. cara menjalankan:
 
-`composer update`
+```
+composer update
+npm install mix
+npm install
+```
 
-`npm install mix`
-
-`npm install`
-
-`php artisan key:generate`
-
-`php artisan migrate --seed`
-
-`php artisan serve`
+```
+php artisan key:generate
+php artisan migrate --seed
+php artisan serve
+```
 
 # Testing API
 
