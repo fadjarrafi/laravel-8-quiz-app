@@ -10,10 +10,6 @@ email: admin@gmail.com
 password : password
 ```
 
-# Testing API
-
-#### Testing menggunakan PostmanAPI
-
 # Database
 
 ```
@@ -32,11 +28,15 @@ b. cara menjalankan:
 `php artisan migrate --seed`
 `php artisan serve`
 
-# Parameters
+# Testing API
+
+#### Testing menggunakan PostmanAPI
+
+## Parameters
 
 POST: `id` , `name` , `email` , `Password`
 
-# Endpoints
+## Endpoints
 
 #### Login menggunakan akun Admin
 
