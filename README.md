@@ -25,6 +25,7 @@ b. cara menjalankan:
 composer update
 npm install mix
 npm install
+npm run dev
 ```
 
 ```
